@@ -1,0 +1,13 @@
+.account-item {
+  border-bottom: 1px solid #ccc;
+}
+
+.account-item button {
+  width: 120px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.account-item button:hover {
+  background-color: rgb(208, 233, 233);
+}

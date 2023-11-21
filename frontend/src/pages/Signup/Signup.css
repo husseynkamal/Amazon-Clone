@@ -1,0 +1,16 @@
+.signup-contanier input {
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  outline: none;
+}
+
+.reset-container button.return-btn {
+  border: none;
+  outline: none;
+  text-decoration: underline;
+  color: #0000ee;
+}
+
+.reset-container button.return-btn:visited {
+  color: #551a8b;
+}
